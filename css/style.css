@@ -1,0 +1,151 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+
+
+
+* {
+	box-sizing: border-box;
+	
+    text-align:center;
+
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family:'Open Sans', sans-serif;
+    line-height: 1.65rem;
+    color:#393d41;
+    line-height: 1.65;
+}
+
+h1,h2 {
+    color: cornflowerblue;
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.5rem;
+    font-weight: bold;
+
+
+}
+
+header{
+    margin: 0%;
+    padding: 0%;
+
+}
+.logo{
+    background-color: black;
+    text-align: center;
+    padding: 0 ;
+    margin: 0 ;
+    
+}
+
+.corso{
+    background-image: url("../images/banner.jpg");
+    background-size:cover;
+    height: 400px;
+    margin: 0%;
+    padding: 0%;
+    margin-bottom: 60px;
+
+}
+
+    
+
+.tondo{
+    border-radius: 500px;
+}
+
+
+.citazione{
+    background-color: tomato;
+    padding-bottom: 40px; 
+}
+
+.citazione p,cite {
+color: white;
+}
+
+.citazione h1{
+    text-align: center;
+    color: white;
+    font-family: "Montserrat"(bold);
+    line-height: 1.5rem;
+    font-size: xxx-large;
+
+}
+
+.miniart img{
+     width: 90vw;;
+}
+
+.miniart{
+    box-sizing: border-box;
+    width: 90%;
+  display: block;
+  margin: 0 auto;
+  background-color: white;
+  border: 1px solid #dee1e1;
+  border-radius: 5px;
+  padding-bottom: 20px;
+}
+
+.button{
+    background-color: #f04c2f;
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+  border-radius: 5px;
+  font-family: "Montserrat";
+  font-weight: bold;
+   }
+
+   footer{
+    color:  #c8e7f0;
+    background-color: #25a2c3;
+    padding-top: 50px;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  padding-bottom: 80px;
+   }
+
+   footer h2{
+    font-size: xx-large;
+    color: white;
+   }
+
+ 
+   
+
+   footer ul{
+    list-style-type: none;
+    
+   }
+
+   footer .link{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+   }
+
+   hr{
+    width: 40%;
+    color: white;
+   }
+
+   .copyr{
+    text-decoration: none;
+   }
+   
+   .CEO{
+    color: white;
+    font-size: smaller;
+    font-family:'Open Sans', sans-serif;
+   }
